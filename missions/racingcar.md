@@ -2,6 +2,14 @@
 
 페어 프로그래밍, 코드 리뷰 등 미션 외적인 내용은 제외하고 수록하였습니다.
 
+## 📜 미션 저장소 & 코드 리뷰 페이지
+
+- [미션 저장소](https://github.com/woowacourse/javascript-racingcar)
+- [1단계 코드 리뷰](https://github.com/woowacourse/javascript-racingcar/pulls?q=is%3Apr+is%3Aclosed+1%EB%8B%A8%EA%B3%84+in%3Atitle)
+- [2단계 코드 리뷰](https://github.com/woowacourse/javascript-racingcar/pulls?q=is%3Apr+is%3Aclosed+2%EB%8B%A8%EA%B3%84+in%3Atitle)
+
+미션 저장소로 가셔서, 저장소를 `fork` 해서 자신의 저장소로 가져오는 것으로 미션을 연습해 보실 수 있습니다.
+
 ## 🚀 1단계 - 자동차 경주 기능 구현
 
 ### 📍 학습 목표
